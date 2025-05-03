@@ -1,366 +1,290 @@
 [
     {
-        "instansi": {
-			"Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan",
-        }
+        "no": 1,
+        "instansi": "Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan"
     },
     {
-        "instansi": {
-            "Kementerian Koordinator Bidang Perekonomian",
-        }
+        "no": 2,
+        "instansi": "Kementerian Koordinator Bidang Perekonomian"
     },
     {
-        "instansi": {
-            "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan",
-        }
+        "no": 3,
+        "instansi": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
     },
     {
-        "instansi": {
-            "Kementerian Koordinator Bidang Kemaritiman dan Investasi",
-        }
+        "no": 4,
+        "instansi": "Kementerian Koordinator Bidang Kemaritiman dan Investasi"
     },
     {
-        "instansi": {
-            "Kementerian Koperasi dan Usaha Kecil dan Menengah",
-        }
+        "no": 5,
+        "instansi": "Kementerian Koperasi dan Usaha Kecil dan Menengah"
     },
     {
-        "instansi": {
-            "Kementerian Badan Usaha Milik Negara",
-        }
+        "no": 6,
+        "instansi": "Kementerian Badan Usaha Milik Negara"
     },
     {
-        "instansi": {
-            "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak",
-        }
+        "no": 7,
+        "instansi": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
     },
     {
-        "instansi": {
-            "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
-        }
+        "no": 8,
+        "instansi": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi"
     },
     {
-        "instansi": {
-            "Kementerian Pemuda dan Olahraga",
-        }
+        "no": 9,
+        "instansi": "Kementerian Pemuda dan Olahraga"
     },
     {
-        "instansi": {
-            "Kementerian Desa",
-            " Hukum": " Pembangunan Daerah Tertinggal dan Transmigrasi",
-            " dan Keamanan": null
-        }
+        "no": 10,
+        "instansi": "Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi"
     },
     {
-        "instansi": {
-            "Kementerian Dalam Negeri",
-        }
+        "no": 11,
+        "instansi": "Kementerian Dalam Negeri"
     },
     {
-        "instansi": {
-            "Kementerian Luar Negeri",
-        }
+        "no": 12,
+        "instansi": "Kementerian Luar Negeri"
     },
     {
-        "instansi": {
-            "Kementerian Pertahanan",
-        }
+        "no": 13,
+        "instansi": "Kementerian Pertahanan"
     },
     {
-        "instansi": {
-            "Kementerian Hukum dan Hak Asasi Manusia",
-        }
+        "no": 14,
+        "instansi": "Kementerian Hukum dan Hak Asasi Manusia"
     },
     {
-        "instansi": {
-            "Kementerian Keuangan",
-        }
+        "no": 15,
+        "instansi": "Kementerian Keuangan"
     },
     {
-        "instansi": {
-            "Kementerian Pertanian",
-        }
+        "no": 16,
+        "instansi": "Kementerian Pertanian"
     },
     {
-        "instansi": {
-            "Kementerian Energi dan Sumber Daya Mineral",
-        }
+        "no": 17,
+        "instansi": "Kementerian Energi dan Sumber Daya Mineral"
     },
     {
-        "instansi": {
-            "Kementerian Perhubungan",
-        }
+        "no": 18,
+        "instansi": "Kementerian Perhubungan"
     },
     {
-        "instansi": {
-            "Kementerian Pendidikan",
-            " Hukum": " Kebudayaan",
-            " dan Keamanan": " Riset dan Teknologi"
-        }
+        "no": 19,
+        "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi"
     },
     {
-        "instansi": {
-            "Kementerian Kesehatan",
-        }
+        "no": 20,
+        "instansi": "Kementerian Kesehatan"
     },
     {
-        "instansi": {
-            "Kementerian Agama",
-        }
+        "no": 21,
+        "instansi": "Kementerian Agama"
     },
     {
-        "instansi": {
-            "Kementerian Ketenagakerjaan",
-        }
+        "no": 22,
+        "instansi": "Kementerian Ketenagakerjaan"
     },
     {
-        "instansi": {
-            "Kementerian Sosial",
-        }
+        "no": 23,
+        "instansi": "Kementerian Sosial"
     },
     {
-        "instansi": {
-            "Kementerian Lingkungan Hidup dan Kehutanan",
-        }
+        "no": 24,
+        "instansi": "Kementerian Lingkungan Hidup dan Kehutanan"
     },
     {
-        "instansi": {
-            "Kementerian Kelautan dan Perikanan",
-        }
+        "no": 25,
+        "instansi": "Kementerian Kelautan dan Perikanan"
     },
     {
-        "instansi": {
-            "Kementerian Komunikasi dan Informatika",
-        }
+        "no": 26,
+        "instansi": "Kementerian Komunikasi dan Informatika"
     },
     {
-        "instansi": {
-            "Kementerian Perdagangan",
-        }
+        "no": 27,
+        "instansi": "Kementerian Perdagangan"
     },
     {
-        "instansi": {
-            "Kementerian Perindustrian",
-        }
+        "no": 28,
+        "instansi": "Kementerian Perindustrian"
     },
     {
-        "instansi": {
-            "Kementerian Pekerjaan Umum dan Perumahan Rakyat",
-        }
+        "no": 29,
+        "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
     },
     {
-        "instansi": {
-            "Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif",
-        }
+        "no": 30,
+        "instansi": "Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif"
     },
     {
-        "instansi": {
-            "Kementerian Sekretariat Negara",
-        }
+        "no": 31,
+        "instansi": "Kementerian Sekretariat Negara"
     },
     {
-        "instansi": {
-            "Sekretariat Jenderal MPR",
-        }
+        "no": 32,
+        "instansi": "Sekretariat Jenderal MPR"
     },
     {
-        "instansi": {
-            "Sekretariat Jenderal DPR RI",
-        }
+        "no": 33,
+        "instansi": "Sekretariat Jenderal DPR RI"
     },
     {
-        "instansi": {
-            "Mahkamah Agung RI",
-        }
+        "no": 34,
+        "instansi": "Mahkamah Agung RI"
     },
     {
-        "instansi": {
-            "Badan Pemeriksa Keuangan",
-        }
+        "no": 35,
+        "instansi": "Badan Pemeriksa Keuangan"
     },
     {
-        "instansi": {
-            "Setjen WANTANNAS",
-        }
+        "no": 36,
+        "instansi": "Setjen WANTANNAS"
     },
     {
-        "instansi": {
-            "Badan Siber dan Sandi Negara",
-        }
+        "no": 37,
+        "instansi": "Badan Siber dan Sandi Negara"
     },
     {
-        "instansi": {
-            "Badan Kepegawaian Negara",
-        }
+        "no": 38,
+        "instansi": "Badan Kepegawaian Negara"
     },
     {
-        "instansi": {
-            "Lembaga Administrasi Negara",
-        }
+        "no": 39,
+        "instansi": "Lembaga Administrasi Negara"
     },
     {
-        "instansi": {
-            "Badan Pusat Statistik",
-        }
+        "no": 40,
+        "instansi": "Badan Pusat Statistik"
     },
     {
-        "instansi": {
-            "Kementerian Perencanaan Pembangunan Nasional/Bappenas",
-        }
+        "no": 41,
+        "instansi": "Kementerian Perencanaan Pembangunan Nasional/Bappenas"
     },
     {
-        "instansi": {
-            "Arsip Nasional Republik Indonesia",
-        }
+        "no": 42,
+        "instansi": "Arsip Nasional Republik Indonesia"
     },
     {
-        "instansi": {
-            "Badan Informasi Geospasial",
-        }
+        "no": 43,
+        "instansi": "Badan Informasi Geospasial"
     },
     {
-        "instansi": {
-            "Badan Kependudukan dan Keluarga Berencana Nasional",
-        }
+        "no": 44,
+        "instansi": "Badan Kependudukan dan Keluarga Berencana Nasional"
     },
     {
-        "instansi": {
-            "Kementerian Investasi/Badan Koordinasi Penanaman Modal",
-        }
+        "no": 45,
+        "instansi": "Kementerian Investasi/Badan Koordinasi Penanaman Modal"
     },
     {
-        "instansi": {
-            "Badan Pengawasan Keuangan dan Pembangunan",
-        }
+        "no": 46,
+        "instansi": "Badan Pengawasan Keuangan dan Pembangunan"
     },
     {
-        "instansi": {
-            "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional",
-        }
+        "no": 47,
+        "instansi": "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional"
     },
     {
-        "instansi": {
-            "Perpustakaan Nasional RI",
-        }
+        "no": 48,
+        "instansi": "Perpustakaan Nasional RI"
     },
     {
-        "instansi": {
-            "Badan Standardisasi Nasional",
-        }
+        "no": 49,
+        "instansi": "Badan Standardisasi Nasional"
     },
     {
-        "instansi": {
-            "Badan Pengawas Tenaga Nuklir",
-        }
+        "no": 50,
+        "instansi": "Badan Pengawas Tenaga Nuklir"
     },
     {
-        "instansi": {
-            "Badan Pengawas Obat dan Makanan",
-        }
+        "no": 51,
+        "instansi": "Badan Pengawas Obat dan Makanan"
     },
     {
-        "instansi": {
-            "Kepolisian Negara",
-        }
+        "no": 52,
+        "instansi": "Kepolisian Negara"
     },
     {
-        "instansi": {
-            "Badan Narkotika Nasional",
-        }
+        "no": 53,
+        "instansi": "Badan Narkotika Nasional"
     },
     {
-        "instansi": {
-            "Setjen Komisi Pemilihan Umum",
-        }
+        "no": 54,
+        "instansi": "Setjen Komisi Pemilihan Umum"
     },
     {
-        "instansi": {
-            "Badan Nasional Penanggulangan Bencana",
-        }
+        "no": 55,
+        "instansi": "Badan Nasional Penanggulangan Bencana"
     },
     {
-        "instansi": {
-            "Setjen KOMNAS HAM",
-        }
+        "no": 56,
+        "instansi": "Setjen KOMNAS HAM"
     },
     {
-        "instansi": {
-            "Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi RI",
-        }
+        "no": 57,
+        "instansi": "Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi RI"
     },
     {
-        "instansi": {
-            "Sekretariat Jenderal Komisi Yudisial",
-        }
+        "no": 58,
+        "instansi": "Sekretariat Jenderal Komisi Yudisial"
     },
     {
-        "instansi": {
-            "Setjen Dewan Perwakilan Daerah",
-        }
+        "no": 59,
+        "instansi": "Setjen Dewan Perwakilan Daerah"
     },
     {
-        "instansi": {
-            "Badan Pelindungan Pekerja Migran Indonesia",
-        }
+        "no": 60,
+        "instansi": "Badan Pelindungan Pekerja Migran Indonesia"
     },
     {
-        "instansi": {
-            "Badan Keamanan Laut RI",
-        }
+        "no": 61,
+        "instansi": "Badan Keamanan Laut RI"
     },
     {
-        "instansi": {
-            "Badan Nasional Pencarian dan Pertolongan",
-        }
+        "no": 62,
+        "instansi": "Badan Nasional Pencarian dan Pertolongan"
     },
     {
-        "instansi": {
-            "Pusat Pelaporan dan Analisis Transaksi Keuangan",
-        }
+        "no": 63,
+        "instansi": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
     },
     {
-        "instansi": {
-            "Badan Nasional Penanggulangan Terorisme",
-        }
+        "no": 64,
+        "instansi": "Badan Nasional Penanggulangan Terorisme"
     },
     {
-        "instansi": {
-            "Setjen Komisi Pengawas Persaingan Usaha",
-        }
+        "no": 65,
+        "instansi": "Setjen Komisi Pengawas Persaingan Usaha"
     },
     {
-        "instansi": {
-            "Badan Pengawas Pemilihan Umum",
-        }
+        "no": 66,
+        "instansi": "Badan Pengawas Pemilihan Umum"
     },
     {
-        "instansi": {
-            "Komisi Aparatur Sipil Negara",
-        }
+        "no": 67,
+        "instansi": "Komisi Aparatur Sipil Negara"
     },
     {
-        "instansi": {
-            "Lembaga Perlindungan Saksi dan Korban",
-        }
+        "no": 68,
+        "instansi": "Lembaga Perlindungan Saksi dan Korban"
     },
     {
-        "instansi": {
-            "Badan Pembinaan Ideologi Pancasila",
-        }
+        "no": 69,
+        "instansi": "Badan Pembinaan Ideologi Pancasila"
     },
     {
-        "instansi": {
-            "Badan Pangan Nasional",
-        }
+        "no": 70,
+        "instansi": "Badan Pangan Nasional"
     },
     {
-        "instansi": {
-            "Sekretariat Jenderal Dewan Nasional Kawasan Ekonomi Khusus",
-        }
+        "no": 71,
+        "instansi": "Sekretariat Jenderal Dewan Nasional Kawasan Ekonomi Khusus"
     },
     {
-        "instansi": {
-            "Badan Karantina Indonesia",
-        }
+        "no": 72,
+        "instansi": "Badan Karantina Indonesia"
     }
 ]
