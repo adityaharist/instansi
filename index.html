@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Daftar Instansi Kementerian/Lembaga</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <h1>Daftar Instansi Kementerian/Lembaga</h1>
+    </header>
+    <main>
+        <div id="instansi-container" class="container">
+            <!-- Data instansi akan dimuat di sini -->
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 Daftar Instansi Kementerian/Lembaga</p>
+    </footer>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const instansiContainer = document.getElementById("instansi-container");
+            const jsonFilePath = "data.json"; // Path ke file JSON
+
+            // Fungsi untuk mengambil data JSON
+            const fetchInstansiData = async () => {
+                try {
+                    const response = await fetch(jsonFilePath);
+                    if (!response.ok) {
+                        throw new Error(`Gagal memuat data JSON: ${response.statusText}`);
+                    }
+                    const data = await response.json();
+                    return data;
+                } catch (error) {
+                    console.error(error);
+                    instansiContainer.innerHTML = "<p>Gagal memuat data instansi.</p>";
+                    return [];
+                }
+            };
+
+            // Fungsi untuk menampilkan daftar instansi sebagai tombol link
+            const displayInstansi = (data) => {
+                data.forEach((item) => {
+                    const instansiName = item.instansi; // item.instansi is a string
+                    const instansiButton = document.createElement("button");
+                    instansiButton.className = "instansi-button";
+                    instansiButton.textContent = instansiName;
+                    instansiButton.onclick = () => {
+                        // Determine JSON file based on instansi name
+                        let jsonFile = "data.json"; // default JSON file
+                        if (instansiName.toLowerCase() === "sekretariat jenderal dpr ri") {
+                            jsonFile = "datajptsetjendprri.json";
+                        }
+                        // Open instansi.html with instansi name and JSON file as query parameters in a new tab
+                        const url = `instansi.html?name=${encodeURIComponent(instansiName)}&file=${encodeURIComponent(jsonFile)}`;
+                        window.open(url, "_blank");
+                    };
+                    instansiContainer.appendChild(instansiButton);
+                });
+            };
+
+            // Load data dan tampilkan di halaman
+            const init = async () => {
+                const data = await fetchInstansiData();
+                displayInstansi(data);
+            };
+
+            init();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "name": "Drs. Mohammad Djazuli, M.Si.",
+        "nip": "196510311994031002",
+        "position": "KEPALA BIRO KESEKRETARIATAN PIMPINAN"
+    },
+    {
+        "id": 2,
+        "name": "Sri Mulyani, S.H.",
+        "nip": "196909171996032003",
+        "position": "KEPALA BAGIAN KEANGGOTAAN DAN KESEKRETARIATAN FRAKSI"
+    },
+    {
+        "id": 3,
+        "name": "Erna Agustina, S.Sos.",
+        "nip": "196808161988032002",
+        "position": "KEPALA BAGIAN SEKRETARIAT BADAN MUSYAWARAH"
+    },
+    {
+        "id": 4,
+        "name": "Murdiarso, S.STP",
+        "nip": "198106212000031001",
+        "position": "KEPALA BAGIAN SEKRETARIAT KETUA"
+    },
+    {
+        "id": 5,
+        "name": "Dwi Widayanti, S.IP.",
+        "nip": "197309151996032001",
+        "position": "KEPALA BAGIAN SEKRETARIAT MUSYAWARAH PIMPINAN"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Anita Handayaniputri, S.T., M.T.",
+        "nip": "198201022005022002",
+        "position": "KEPALA BAGIAN SEKRETARIAT WAKIL KETUA BIDANG EKONOMI DAN KEUANGAN"
+    },
+    {
+        "id": 7,
+        "name": "Rusmanto, S.H., M.H.",
+        "nip": "197112121997031001",
+        "position": "KEPALA BAGIAN SEKRETARIAT WAKIL KETUA BIDANG INDUSTRI DAN PEMBANGUNAN"
+    },
+    {
+        "id": 8,
+        "name": "Aji Nurhadi Wibowo, S.E., M.AP",
+        "nip": "198003232005021003",
+        "position": "KEPALA BAGIAN SEKRETARIAT WAKIL KETUA BIDANG KESEJAHTERAAN RAKYAT"
+    },
+    {
+        "id": 9,
+        "name": "Dian Arivani, S.E., M.S.M.",
+        "nip": "198209082005022001",
+        "position": "KEPALA BAGIAN SEKRETARIAT WAKIL KETUA BIDANG POLITIK DAN KEAMANAN"
+    },
+    {
+        "id": 10,
+        "name": "Asep Supriadi, S.A.P., M.AP",
+        "nip": "198106282005021001",
+        "position": "KEPALA BAGIAN TATA USAHA PIMPINAN SEKRETARIAT JENDERAL"
+    },
+    {
+        "id": 11,
+        "name": "Sobariyah, S.H.",
+        "nip": "197308201998032003",
+        "position": "KEPALA SUBBAGIAN ADMINISTRASI KEANGGOTAAN"
+    },
+    {
+        "id": 12,
+        "name": "Dicky Rachmadi, S.A.P.",
+        "nip": "198109042001121002",
+        "position": "KEPALA SUBBAGIAN KERUMAHTANGGAAN SEKRETARIAT KETUA"
+    },
+    {
+        "id": 13,
+        "name": "Sumarman, S.Sos.",
+        "nip": "197010121998031002",
+        "position": "KEPALA SUBBAGIAN KERUMAHTANGGAAN SEKRETARIAT WAKIL KETUA BIDANG EKONOMI DAN KEUANGAN"
+    },
+    {
+        "id": 14,
+        "name": "Dyah Renowati, S.Sos.",
+        "nip": "197108251991022001",
+        "position": "KEPALA SUBBAGIAN KERUMAHTANGGAAN SEKRETARIAT WAKIL KETUA BIDANG INDUSTRI DAN PEMBANGUNAN"
+    },
+    {
+        "id": 15,
+        "name": "Annissa Putri Nasyi'ah, S.E.",
+        "nip": "198512302009122004",
+        "position": "KEPALA SUBBAGIAN KERUMAHTANGGAAN SEKRETARIAT WAKIL KETUA BIDANG KESEJAHTERAAN RAKYAT"
+    },
+    {
+        "id": 16,
+        "name": "Eko Priyanto, S.E.",
+        "nip": "196901231998031003",
+        "position": "KEPALA SUBBAGIAN KERUMAHTANGGAAN SEKRETARIAT WAKIL KETUA BIDANG POLITIK DAN KEAMANAN"
+    },
+    {
+        "id": 17,
+        "name": "Agus Nuryadin, S.Sos",
+        "nip": "196808081997031002",
+        "position": "KEPALA SUBBAGIAN KESEKRETARIATAN FRAKSI"
+    },
+    {
+        "id": 18,
+        "name": "Kusnadi, S.IP",
+        "nip": "197103291996031001",
+        "position": "KEPALA SUBBAGIAN PERSURATAN"
+    },
+    {
+        "id": 19,
+        "name": "Puji Lestari, S.E.",
+        "nip": "197806261998032002",
+        "position": "KEPALA SUBBAGIAN RAPAT SEKRETARIAT BADAN MUSYAWARAH"
+    },
+    {
+        "id": 20,
+        "name": "Aan Andrianih, S.H., M.H.",
+        "nip": "197709012002122002",
+        "position": "KEPALA SUBBAGIAN RAPAT SEKRETARIAT MUSYAWARAH PIMPINAN"
+    },
+    {
+        "id": 21,
+        "name": "A Mahirah, S.Kom., M.M.",
+        "nip": "198111202009022003",
+        "position": "KEPALA SUBBAGIAN TATA USAHA DEPUTI BIDANG ADMINISTRASI"
+    },
+    {
+        "id": 22,
+        "name": "Abdul Rahman, S.IP.",
+        "nip": "196806221994031005",
+        "position": "KEPALA SUBBAGIAN TATA USAHA DEPUTI BIDANG PERSIDANGAN"
+    },
+    {
+        "id": 23,
+        "name": "Kunarto, S.Sos.",
+        "nip": "197310161994031002",
+        "position": "KEPALA SUBBAGIAN TATA USAHA SEKRETARIAT BADAN MUSYAWARAH"
+    },
+    {
+        "id": 24,
+        "name": "Eka Andriansyah, S.Sos.",
+        "nip": "198502272005021001",
+        "position": "KEPALA SUBBAGIAN TATA USAHA SEKRETARIAT KETUA"
+    },
+    {
+        "id": 25,
+        "name": "Rosweni Sukandar, S.AP., M.Tr.A.P.",
+        "nip": "197906212003122006",
+        "position": "KEPALA SUBBAGIAN TATA USAHA SEKRETARIAT MUSYAWARAH PIMPINAN"
+    },
+    {
+        "id": 26,
+        "name": "Mu'ammil Rokhily, S.Sos.",
+        "nip": "197703262005021001",
+        "position": "KEPALA SUBBAGIAN TATA USAHA SEKRETARIAT WAKIL KETUA BIDANG EKONOMI DAN KEUANGAN"
+    },
+    {
+        "id": 27,
+        "name": "Dicky Firmansyah, S.Sos., M.A.P",
+        "nip": "197812041997031001",
+        "position": "KEPALA SUBBAGIAN TATA USAHA SEKRETARIAT WAKIL KETUA BIDANG INDUSTRI DAN PEMBANGUNAN"
+    },
+    {
+        "id": 28,
+        "name": "Bayu Setiadi, S.IP.",
+        "nip": "197903262005021002",
+        "position": "KEPALA SUBBAGIAN TATA USAHA SEKRETARIAT WAKIL KETUA BIDANG KESEJAHTERAAN RAKYAT"
+    },
+    {
+        "id": 29,
+        "name": "Rifan Rachman Safari Andalas, S.Sos., M.H.",
+        "nip": "198301232009121001",
+        "position": "KEPALA SUBBAGIAN TATA USAHA SEKRETARIAT WAKIL KETUA BIDANG POLITIK DAN KEAMANAN"
+    },
+    {
+        "id": 30,
+        "name": "Prima Chahya Chandrasari, S.E.",
+        "nip": "197108061997032001",
+        "position": "KEPALA SUBBAGIAN TATA USAHA SEKRETARIS JENDERAL"
+    }
+]

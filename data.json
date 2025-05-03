@@ -1,290 +1,218 @@
 [
     {
-        "no": 1,
         "instansi": "Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan"
     },
     {
-        "no": 2,
         "instansi": "Kementerian Koordinator Bidang Perekonomian"
     },
     {
-        "no": 3,
         "instansi": "Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan"
     },
     {
-        "no": 4,
         "instansi": "Kementerian Koordinator Bidang Kemaritiman dan Investasi"
     },
     {
-        "no": 5,
         "instansi": "Kementerian Koperasi dan Usaha Kecil dan Menengah"
     },
     {
-        "no": 6,
         "instansi": "Kementerian Badan Usaha Milik Negara"
     },
     {
-        "no": 7,
         "instansi": "Kementerian Pemberdayaan Perempuan dan Perlindungan Anak"
     },
     {
-        "no": 8,
         "instansi": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi"
     },
     {
-        "no": 9,
         "instansi": "Kementerian Pemuda dan Olahraga"
     },
     {
-        "no": 10,
-        "instansi": "Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi"
+        "instansi": "Kementerian Desa"
     },
     {
-        "no": 11,
         "instansi": "Kementerian Dalam Negeri"
     },
     {
-        "no": 12,
         "instansi": "Kementerian Luar Negeri"
     },
     {
-        "no": 13,
         "instansi": "Kementerian Pertahanan"
     },
     {
-        "no": 14,
         "instansi": "Kementerian Hukum dan Hak Asasi Manusia"
     },
     {
-        "no": 15,
         "instansi": "Kementerian Keuangan"
     },
     {
-        "no": 16,
         "instansi": "Kementerian Pertanian"
     },
     {
-        "no": 17,
         "instansi": "Kementerian Energi dan Sumber Daya Mineral"
     },
     {
-        "no": 18,
         "instansi": "Kementerian Perhubungan"
     },
     {
-        "no": 19,
-        "instansi": "Kementerian Pendidikan, Kebudayaan, Riset dan Teknologi"
+        "instansi": "Kementerian Pendidikan"
     },
     {
-        "no": 20,
         "instansi": "Kementerian Kesehatan"
     },
     {
-        "no": 21,
         "instansi": "Kementerian Agama"
     },
     {
-        "no": 22,
         "instansi": "Kementerian Ketenagakerjaan"
     },
     {
-        "no": 23,
         "instansi": "Kementerian Sosial"
     },
     {
-        "no": 24,
         "instansi": "Kementerian Lingkungan Hidup dan Kehutanan"
     },
     {
-        "no": 25,
         "instansi": "Kementerian Kelautan dan Perikanan"
     },
     {
-        "no": 26,
         "instansi": "Kementerian Komunikasi dan Informatika"
     },
     {
-        "no": 27,
         "instansi": "Kementerian Perdagangan"
     },
     {
-        "no": 28,
         "instansi": "Kementerian Perindustrian"
     },
     {
-        "no": 29,
         "instansi": "Kementerian Pekerjaan Umum dan Perumahan Rakyat"
     },
     {
-        "no": 30,
         "instansi": "Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif"
     },
     {
-        "no": 31,
         "instansi": "Kementerian Sekretariat Negara"
     },
     {
-        "no": 32,
         "instansi": "Sekretariat Jenderal MPR"
     },
     {
-        "no": 33,
         "instansi": "Sekretariat Jenderal DPR RI"
     },
     {
-        "no": 34,
         "instansi": "Mahkamah Agung RI"
     },
     {
-        "no": 35,
         "instansi": "Badan Pemeriksa Keuangan"
     },
     {
-        "no": 36,
         "instansi": "Setjen WANTANNAS"
     },
     {
-        "no": 37,
         "instansi": "Badan Siber dan Sandi Negara"
     },
     {
-        "no": 38,
         "instansi": "Badan Kepegawaian Negara"
     },
     {
-        "no": 39,
         "instansi": "Lembaga Administrasi Negara"
     },
     {
-        "no": 40,
         "instansi": "Badan Pusat Statistik"
     },
     {
-        "no": 41,
         "instansi": "Kementerian Perencanaan Pembangunan Nasional/Bappenas"
     },
     {
-        "no": 42,
         "instansi": "Arsip Nasional Republik Indonesia"
     },
     {
-        "no": 43,
         "instansi": "Badan Informasi Geospasial"
     },
     {
-        "no": 44,
         "instansi": "Badan Kependudukan dan Keluarga Berencana Nasional"
     },
     {
-        "no": 45,
         "instansi": "Kementerian Investasi/Badan Koordinasi Penanaman Modal"
     },
     {
-        "no": 46,
         "instansi": "Badan Pengawasan Keuangan dan Pembangunan"
     },
     {
-        "no": 47,
         "instansi": "Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional"
     },
     {
-        "no": 48,
         "instansi": "Perpustakaan Nasional RI"
     },
     {
-        "no": 49,
         "instansi": "Badan Standardisasi Nasional"
     },
     {
-        "no": 50,
         "instansi": "Badan Pengawas Tenaga Nuklir"
     },
     {
-        "no": 51,
         "instansi": "Badan Pengawas Obat dan Makanan"
     },
     {
-        "no": 52,
         "instansi": "Kepolisian Negara"
     },
     {
-        "no": 53,
         "instansi": "Badan Narkotika Nasional"
     },
     {
-        "no": 54,
         "instansi": "Setjen Komisi Pemilihan Umum"
     },
     {
-        "no": 55,
         "instansi": "Badan Nasional Penanggulangan Bencana"
     },
     {
-        "no": 56,
         "instansi": "Setjen KOMNAS HAM"
     },
     {
-        "no": 57,
         "instansi": "Kepaniteraan dan Sekretariat Jenderal Mahkamah Konstitusi RI"
     },
     {
-        "no": 58,
         "instansi": "Sekretariat Jenderal Komisi Yudisial"
     },
     {
-        "no": 59,
         "instansi": "Setjen Dewan Perwakilan Daerah"
     },
     {
-        "no": 60,
         "instansi": "Badan Pelindungan Pekerja Migran Indonesia"
     },
     {
-        "no": 61,
         "instansi": "Badan Keamanan Laut RI"
     },
     {
-        "no": 62,
         "instansi": "Badan Nasional Pencarian dan Pertolongan"
     },
     {
-        "no": 63,
         "instansi": "Pusat Pelaporan dan Analisis Transaksi Keuangan"
     },
     {
-        "no": 64,
         "instansi": "Badan Nasional Penanggulangan Terorisme"
     },
     {
-        "no": 65,
         "instansi": "Setjen Komisi Pengawas Persaingan Usaha"
     },
     {
-        "no": 66,
         "instansi": "Badan Pengawas Pemilihan Umum"
     },
     {
-        "no": 67,
         "instansi": "Komisi Aparatur Sipil Negara"
     },
     {
-        "no": 68,
         "instansi": "Lembaga Perlindungan Saksi dan Korban"
     },
     {
-        "no": 69,
         "instansi": "Badan Pembinaan Ideologi Pancasila"
     },
     {
-        "no": 70,
         "instansi": "Badan Pangan Nasional"
     },
     {
-        "no": 71,
         "instansi": "Sekretariat Jenderal Dewan Nasional Kawasan Ekonomi Khusus"
     },
     {
-        "no": 72,
         "instansi": "Badan Karantina Indonesia"
     }
 ]

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Detail Instansi</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <header>
+        <nav style="position: fixed; top: 10px; left: 10px;">
+            <a href="index.html" class="back-link" style="text-decoration: none; font-weight: bold; font-size: 1rem;">kembali</a>
+        </nav>
+        <h1>Detail Instansi</h1>
+    </header>
+    <main>
+        <div id="instansi-detail" class="container">
+            <!-- Detail instansi akan ditampilkan di sini -->
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2025 Daftar Instansi Kementerian/Lembaga</p>
+    </footer>
+        <script>
+        // Fungsi untuk mendapatkan parameter query dari URL
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        // Fungsi untuk menampilkan data instansi dari JSON dalam bentuk tabel
+        function displayInstansiData(data) {
+            const instansiDetail = document.getElementById("instansi-detail");
+            instansiDetail.innerHTML = ""; // Clear previous content
+
+            if (!Array.isArray(data)) {
+                instansiDetail.textContent = "Data instansi tidak valid.";
+                return;
+            }
+
+            // Create table element
+            const table = document.createElement("table");
+            table.className = "instansi-table";
+
+            // Create table header
+            const thead = document.createElement("thead");
+            const headerRow = document.createElement("tr");
+
+            const headers = ["No", "Nama Pejabat", "NIP", "Posisi Jabatan"];
+            headers.forEach(headerText => {
+                const th = document.createElement("th");
+                th.textContent = headerText;
+                headerRow.appendChild(th);
+            });
+            thead.appendChild(headerRow);
+            table.appendChild(thead);
+
+            // Create table body
+            const tbody = document.createElement("tbody");
+
+            data.forEach((item, index) => {
+                const row = document.createElement("tr");
+
+                // No
+                const cellNo = document.createElement("td");
+                cellNo.textContent = index + 1;
+                row.appendChild(cellNo);
+
+                // Nama Pejabat
+                const cellName = document.createElement("td");
+                cellName.textContent = item.name || "";
+                row.appendChild(cellName);
+
+                // NIP
+                const cellNip = document.createElement("td");
+                cellNip.textContent = item.nip || "";
+                row.appendChild(cellNip);
+
+                // Posisi Jabatan
+                const cellPosition = document.createElement("td");
+                cellPosition.textContent = item.position || "";
+                row.appendChild(cellPosition);
+
+                tbody.appendChild(row);
+            });
+
+            table.appendChild(tbody);
+            instansiDetail.appendChild(table);
+        }
+
+        document.addEventListener("DOMContentLoaded", () => {
+            const instansiName = getQueryParam("name");
+            const jsonFile = getQueryParam("file");
+
+            if (!jsonFile) {
+                document.getElementById("instansi-detail").textContent = "File data tidak ditemukan.";
+                return;
+            }
+
+            fetch(jsonFile)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Gagal memuat file JSON: ${response.statusText}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    displayInstansiData(data);
+                })
+                .catch(error => {
+                    document.getElementById("instansi-detail").textContent = error.message;
+                });
+        });
+    </script>
+</body>
+</html>
